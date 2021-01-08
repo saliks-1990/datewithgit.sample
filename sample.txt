@@ -3,5 +3,15 @@ sali ks
 kannamdhanam
 kulalyittikkara po
 ernakulam
+<<<<<<< HEAD
 ph:327895729879
 dob:34878578
+=======
+<<<<<<< HEAD
+pin:682317
+ph:8076548933
+=======
+ph:327895729879
+dob:34878578
+>>>>>>> all
+>>>>>>> master
